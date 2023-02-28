@@ -1,0 +1,130 @@
+#t1{
+margin-left: 13%;
+}
+
+#formulario{
+    
+    margin: 50px;
+}
+
+.nome{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    border: dashed ;
+    border-color: rgb(71, 182, 145);
+    border-radius: 50px;
+    background-color: aqua;
+    margin: 10px;
+    padding: 5px;
+    width: 57%;
+    height: 30px;
+    margin-left: 20%;
+}
+#nome{
+    border-radius: 10px;
+    border-color: aquamarine;
+    border-width: 3px;
+    color:red;
+}
+#email{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    border: dashed;
+    border-color:rgb(71, 182, 145);
+    border-radius: 50px;
+    background-color: aqua;
+    margin: 10px;
+    padding: 5px;
+    width: 57%;
+    height: 30px;
+    margin-left: 20%;
+}
+#mail{
+    border-radius: 10px;
+    border-color: aquamarine;
+    border-width: 3px;
+    color: red;
+}
+#celular{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    border: dashed;
+    border-color:rgb(71, 182, 145);
+    border-radius: 50px;
+    background-color: aqua;
+    margin: 10px;
+    padding: 5px;
+    width: 57%;
+    height: 30px;
+    margin-left: 20%;
+}
+#cel{
+    border-radius: 10px;
+    border-color: aquamarine;
+    border-width: 3px;
+    color: red;
+}
+#data{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    border: dashed;
+    border-color:rgb(71, 182, 145);
+    border-radius: 50px;
+    background-color: aqua;
+    margin: 10px;
+    padding: 5px;
+    width: 57%;
+    height: 30px;
+    margin-left: 20%;
+}
+#nasc{
+    border-radius: 10px;
+    border-color: aquamarine;
+    border-width: 3px;
+    color: red;
+}
+#color{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    border: dashed;
+    border-color:rgb(71, 182, 145);
+    border-radius: 50px;
+    background-color: aqua;
+    margin-left: 20%;
+    padding: 5px;
+    width: 57%;
+    height: 30px;
+}
+.color{
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: rgb(0, 0, 0);
+    border-width: 3px;
+    color: red;
+}
+#val{
+    margin-left: 31%;
+    padding:5px;
+    background-color: aquamarine;
+    border-radius: 50px;
+    border-color: aqua;
+    color: red;
+    width: 100px;
+    height: 30px;
+}
+#next{
+    margin-left: 30px;
+    padding: 5px;
+    background-color: aquamarine;
+    border-radius: 50px;
+    border-color: aqua;
+    color: red;
+    width: 100px;
+    height: 30px; 
+}
